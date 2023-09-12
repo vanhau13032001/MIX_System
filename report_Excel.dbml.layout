@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="report_Excel">
+  <DataContextMoniker Name="/report_ExcelDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e0b809fa-1a2a-4960-bff8-b6e0574b9bc2" absoluteBounds="2, 1.5, 2.875, 2.3478011067708335">
+      <DataClassMoniker Name="/report_ExcelDataContext/Mix_System_Data" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ca7455a7-273f-4a34-a38c-b38f99e23ef2" absoluteBounds="2.015, 1.96, 2.8449999999999998, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

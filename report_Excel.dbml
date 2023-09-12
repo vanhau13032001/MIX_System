@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="PLC_SQL" Class="report_ExcelDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-9LGC03B\SQLEXPRESS;Initial Catalog=PLC_SQL;Integrated Security=True" SettingsObjectName="Mix_System.Properties.Settings" SettingsPropertyName="sqlReport_String" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Mix_System_Data" Member="Mix_System_Datas">
+    <Type Name="Mix_System_Data">
+      <Column Name="Datetime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Shift" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Order_ID" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Setting_Weight1" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Actual_Weight1" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Setting_Weight2" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Actual_Weight2" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Actual_Time_Tron" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
