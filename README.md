@@ -34,7 +34,9 @@ The system also allows for manual control by the operator, enabling them to inte
 + System Configuration:The System Configuration feature allows authorized users to modify the system's settings, including changing the database for data storage and adjusting production shift times.
 
 ![image](https://github.com/vanhau13032001/mix_system/assets/131149905/5a4b60d0-eff6-47c5-b0ee-90f8eeeeb863)
-#Technology in use
+
+ # Technology in use
+ 
 + C# (Widownform):User interface for monitoring system status.
 + PLC: the PLC S7-1200, programming is used to control the system's state.
 + Kepserver: Kepserver is used to establish a connection between Visual Studio and a PLC via the OPC protocol.
