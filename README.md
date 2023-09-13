@@ -6,7 +6,7 @@ Once the mixing process is completed as per the set time, the system will activa
 
 The system also allows for manual control by the operator, enabling them to intervene in the mixing process and control the valves and mixing motor manually.
 
-![image](https://github.com/vanhau13032001/mix_system/assets/131149905/d89f7002-5211-45ed-8814-5bb8d1bd0b22)
+![image](https://github.com/vanhau13032001/mix_system/assets/131149905/7be4de25-4d95-44be-97b4-065aa87917b7)
 
 # Features
 
