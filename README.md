@@ -38,7 +38,7 @@ The system also allows for manual control by the operator, enabling them to inte
  # Technology in use
  
 + <h4>C# (Widownform)</h4>User interface for monitoring system status.
-+ <h4>PLC</h4>the PLC S7-1200, programming is used to control the system's state.
++ <h4>PLC</h4>The PLC S7-1200, Programming is used to control the system's state.
 + <h4>Kepserver</h4>Kepserver is used to establish a connection between Visual Studio and a PLC via the OPC protocol.
 + <h4>SQL SERVER</h4>SQL Server connects to Visual Studio to store production data.
 
