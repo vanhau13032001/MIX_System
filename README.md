@@ -14,6 +14,8 @@ The system also allows for manual control by the operator, enabling them to inte
 ![image](https://github.com/vanhau13032001/mix_system/assets/131149905/57df7a98-4a8a-4e21-bbc8-ce03112204b9)
 
  + Order Management:The Order Management feature allows users to efficiently manage orders, including the ability to set order names, specify ingredient quantities, and add, delete, or update orders. The values associated with each order are stored in a SQL Server database.
+![image](https://github.com/vanhau13032001/mix_system/assets/131149905/bf88cd3a-a155-4fd7-b9bf-247abb84d80d)
+
 
 
 
