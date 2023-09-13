@@ -17,7 +17,7 @@ The system also allows for manual control by the operator, enabling them to inte
    
 ![image](https://github.com/vanhau13032001/mix_system/assets/131149905/bf88cd3a-a155-4fd7-b9bf-247abb84d80d)
 
-+ <h4>**Production Data Management and Reporting**</h4>: The Production Data Management and Reporting feature allows users to efficiently manage and retrieve production data. Users can search for data based on date, time, production shift, and generate reports in PDF and Excel formats for further data analysis and processing.
++ <h4>Production Data Management and Reporting</h4>:The Production Data Management and Reporting feature allows users to efficiently manage and retrieve production data. Users can search for data based on date, time, production shift, and generate reports in PDF and Excel formats for further data analysis and processing.
   
 ![image](https://github.com/vanhau13032001/mix_system/assets/131149905/d1685268-eef6-43f6-9736-f67f4c0bb36f)
 
