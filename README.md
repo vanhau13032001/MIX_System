@@ -5,6 +5,7 @@ The Material Mixing System is an application designed to control the process of 
 Once the mixing process is completed as per the set time, the system will activate a third valve to discharge the mixed material. This process continues until a low-level sensor detects depletion, at which point the system automatically closes the third valve and completes a batch.
 
 The system also allows for manual control by the operator, enabling them to intervene in the mixing process and control the valves and mixing motor manually.
+![image](https://github.com/vanhau13032001/mix_system/assets/131149905/80fa2fec-d42d-4c28-96e3-e603efc31818)
 
-Features
+# Features
 
