@@ -31,6 +31,9 @@ The system also allows for manual control by the operator, enabling them to inte
 
 ![image](https://github.com/vanhau13032001/mix_system/assets/131149905/7d00720e-345a-49ab-9acb-c07cbb15bc37)
 
++ System Configuration:The System Configuration feature allows authorized users to modify the system's settings, including changing the database for data storage and adjusting production shift times.
+![image](https://github.com/vanhau13032001/mix_system/assets/131149905/5a4b60d0-eff6-47c5-b0ee-90f8eeeeb863)
+
 
 
 
