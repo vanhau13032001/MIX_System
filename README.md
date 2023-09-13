@@ -14,7 +14,16 @@ The system also allows for manual control by the operator, enabling them to inte
 ![image](https://github.com/vanhau13032001/mix_system/assets/131149905/57df7a98-4a8a-4e21-bbc8-ce03112204b9)
 
  + Order Management:The Order Management feature allows users to efficiently manage orders, including the ability to set order names, specify ingredient quantities, and add, delete, or update orders. The values associated with each order are stored in a SQL Server database.
+   
 ![image](https://github.com/vanhau13032001/mix_system/assets/131149905/bf88cd3a-a155-4fd7-b9bf-247abb84d80d)
+
++ Production Data Management and Reporting: The Production Data Management and Reporting feature allows users to efficiently manage and retrieve production data. Users can search for data based on date, time, production shift, and generate reports in PDF and Excel formats for further data analysis and processing.
+  
+![image](https://github.com/vanhau13032001/mix_system/assets/131149905/d1685268-eef6-43f6-9736-f67f4c0bb36f)
+
+![image](https://github.com/vanhau13032001/mix_system/assets/131149905/739b3702-d690-4fbc-85d8-ed05de8bbc5b)
+
+![image](https://github.com/vanhau13032001/mix_system/assets/131149905/f4e5bae7-2eff-4727-b365-12a170428c86)
 
 
 
