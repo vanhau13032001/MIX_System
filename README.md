@@ -29,7 +29,8 @@ The system also allows for manual control by the operator, enabling them to inte
 
 ![image](https://github.com/vanhau13032001/mix_system/assets/131149905/48675ac7-dbf3-4177-b9d5-077167471c5d)
 
-![image](https://github.com/vanhau13032001/mix_system/assets/131149905/d2ec8822-439a-4850-a0ef-8064c110ac19)
+![image](https://github.com/vanhau13032001/mix_system/assets/131149905/7d00720e-345a-49ab-9acb-c07cbb15bc37)
+
 
 
 
