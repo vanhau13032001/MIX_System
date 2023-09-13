@@ -25,6 +25,11 @@ The system also allows for manual control by the operator, enabling them to inte
 
 ![image](https://github.com/vanhau13032001/mix_system/assets/131149905/f4e5bae7-2eff-4727-b365-12a170428c86)
 
++ Alerting System:The Alerting System feature is designed to monitor the status of devices and equipment within the system and provide real-time alerts in case of errors or issues. It displays these alerts on the main control interface and records the time of the errors in the database.
+
+![image](https://github.com/vanhau13032001/mix_system/assets/131149905/48675ac7-dbf3-4177-b9d5-077167471c5d)
+
+![image](https://github.com/vanhau13032001/mix_system/assets/131149905/d2ec8822-439a-4850-a0ef-8064c110ac19)
 
 
 
