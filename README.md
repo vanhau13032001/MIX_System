@@ -42,6 +42,8 @@ The system also allows for manual control by the operator, enabling them to inte
 + <h4>Kepserver</h4>Kepserver is used to establish a connection between Visual Studio and a PLC via the OPC protocol.
 + <h4>SQL SERVER</h4>SQL Server connects to Visual Studio to store production data.
 
-
+# Contact
++ **Email**:tranvanhau.13032001@gmail.com
++ **SĐT**:0989025870
 
 
